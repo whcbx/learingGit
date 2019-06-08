@@ -38,7 +38,7 @@ git log --oneline --all --graph
 7
 
 operation on empty branch
-
+operation on empty branch2
 
 
 
