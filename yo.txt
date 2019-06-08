@@ -26,3 +26,5 @@ git  branch -b 创建分支并切换到新分支
 git  log --oneline  -all
 git log --oneline --all --graph 
 
+3 not rich ...
+
