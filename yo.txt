@@ -5,6 +5,7 @@
 
 
 
+
 第一回
 孙悟空横空出世
 
@@ -14,3 +15,14 @@
 git checkout - 
 git checkout  #commitid#
 git log -p
+
+git  tag 查看所有tag
+git tag -a "tagName" -m "Tag 描述"
+
+git branch 分支名
+ 
+git  branch -b 创建分支并切换到新分支
+
+git  log --oneline  -all
+git log --oneline --all --graph 
+
