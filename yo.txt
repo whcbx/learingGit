@@ -45,6 +45,8 @@ git checkout #commitid##  跳到某个commmitid上，head指向那里 但是没�
 8
 
 
+operation on empty branch
+operation on empty branch2
 
 
 
