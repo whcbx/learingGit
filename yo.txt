@@ -50,6 +50,7 @@ operation on empty branch2
 
 add oneline for remote repo
 
+replace origin repo name with url address https://github.com/whcbx/learingGit 
 
 
 
