@@ -27,4 +27,5 @@ git  log --oneline  -all
 git log --oneline --all --graph 
 
 3 rich ...
+4  干了很多事业1
 
