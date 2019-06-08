@@ -31,7 +31,7 @@ git reset HEAD <file>...
 
 git merge 
 
-git checkout #commitid##  跳到某个commmitid上，但是head并不指向那里 而且没有分支
+git checkout #commitid##  跳到某个commmitid上，head指向那里 但是没有分支
 
 3  norich ...
 4  干了很多事业1
