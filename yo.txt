@@ -37,6 +37,8 @@ git log --oneline --all --graph
 7 fix bug2
 7
 
+operation on empty branch
+
 
 
 
