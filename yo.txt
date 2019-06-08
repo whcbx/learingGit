@@ -11,3 +11,6 @@
 第二回
 猪八戒啊从哪里来 去干什么 一段往事
 
+git checkout - 
+git checkout  #commitid#
+git log -p
