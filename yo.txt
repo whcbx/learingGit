@@ -25,7 +25,13 @@ git branch 分支名
 git  branch -b 创建分支并切换到新分支
 
 git  log --oneline  -all
-git log --oneline --all --graph 
+git log --oneline --all --graph
+
+git reset HEAD <file>...
+
+git merge 
+
+git checkout #commitid##  跳到某个commmitid上，但是head并不指向那里 而且没有分支
 
 3  norich ...
 4  干了很多事业1
@@ -36,6 +42,8 @@ git log --oneline --all --graph
 6 fix bug1
 7 fix bug2
 7
+8
+
 
 
 
